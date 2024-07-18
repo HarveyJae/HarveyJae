@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img align="left" alt="" src="./images/emoji.gif" />
+<img align="right" alt="" src="./images/emoji.gif" />
 
 </div>
 
