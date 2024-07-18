@@ -4,6 +4,12 @@
 
 ### Glad to see you here! 
 
+<div align="center">
+
+<img align="left" alt="" src="./images/emoji.gif" />
+
+</div>
+
 I am currently in my fourth year at [CCNU](https://www.ccnu.edu.cn/), a prestigious university situated in the beautiful city of **Wuhan**. 🚀
 
 My academic focus is on **embedded software**, a field in which I have accumulated substantial experience through various embedded projects. My technical skills are grounded in programming languages such as **C**, and I have a solid understanding of platforms like **STM32** and **motor control** techniques.🌟
@@ -13,8 +19,6 @@ In addition to my passion for embedded systems, I have also developed an interes
 
 
 <a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
-
-<img align="right" alt="" src="./images/emoji.gif" />
 
 <img align="right" height="250" width="375" alt="" src="./images/developer.gif" />
 
