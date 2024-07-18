@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img align="right" alt="" src="./images/emoji.gif" />
+
 
 </div>
 
@@ -18,7 +18,7 @@ In addition to my passion for embedded systems, I have also developed an interes
 
 
 
-<a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
+<img align="left" alt="" src="./images/emoji.gif" />
 
 <img align="right" height="250" width="375" alt="" src="./images/developer.gif" />
 
