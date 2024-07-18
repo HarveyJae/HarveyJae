@@ -4,7 +4,7 @@
 
 ### Glad to see you here! 
 
-I am currently in my fourth year at [CCNU]([华中师范大学 (ccnu.edu.cn)](https://www.ccnu.edu.cn/)), a prestigious university situated in the beautiful city of **Wuhan**. 🚀
+I am currently in my fourth year at [CCNU](https://www.ccnu.edu.cn/), a prestigious university situated in the beautiful city of **Wuhan**. 🚀
 
 My academic focus is on **embedded software**, a field in which I have accumulated substantial experience through various embedded projects. My technical skills are grounded in programming languages such as **C**, and I have a solid understanding of platforms like **STM32** and **motor control** techniques.🌟
 
@@ -29,7 +29,11 @@ In addition to my passion for embedded systems, I have also developed an interes
 - 📰 &nbsp; My favorite movie is Interstellar.
 - 🍕 &nbsp; Napoli spaghetti & Chinese Food & Iced Americano.
 
+<div align="center">
+
 <img align="left" alt="" src="./images/emoji.gif" />
+
+</div>
 
 <div align="center">
 
