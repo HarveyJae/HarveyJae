@@ -14,6 +14,8 @@ In addition to my passion for embedded systems, I have also developed an interes
 
 <a href="https://www.buymeacoffee.com/iampavangandhi" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" alt="Buy Me A Coffee" height="60px" width="217px" ></a>
 
+<img align="right" alt="" src="./images/emoji.gif" />
+
 <img align="right" height="250" width="375" alt="" src="./images/developer.gif" />
 
 ### Talking about Personal Stuff:
@@ -28,12 +30,6 @@ In addition to my passion for embedded systems, I have also developed an interes
 - 💻 &nbsp; I love exploring new technologies and building cool stuff.
 - 📰 &nbsp; My favorite movie is Interstellar.
 - 🍕 &nbsp; Napoli spaghetti & Chinese Food & Iced Americano.
-
-<div align="center">
-
-<img align="left" alt="" src="./images/emoji.gif" />
-
-</div>
 
 <div align="center">
 
