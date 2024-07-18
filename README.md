@@ -5,8 +5,7 @@
 ### Glad to see you here! 
 
 <div align="center">
-
-
+<img align="left" alt="" src="./images/emoji.gif" />
 
 </div>
 
@@ -17,8 +16,6 @@ My academic focus is on **embedded software**, a field in which I have accumulat
 In addition to my passion for embedded systems, I have also developed an interest in **Java** backend development. My professional background includes work experience as a **product manager**, which has honed my ability to bridge the gap between technical and business aspects of software development. My practical experience is further enriched by an internship at a robotics company in **Shenzhen**, where I was tasked with developing the communication module. Presently, I am broadening my skills by interning at a software company in **Wuhan**, continuing to build my expertise in the tech industry.🌟
 
 
-
-<img align="left" alt="" src="./images/emoji.gif" />
 
 <img align="right" height="250" width="375" alt="" src="./images/developer.gif" />
 
