@@ -1,4 +1,4 @@
-## Hey there 👋, I'm [Nolan!](https://github.com/Nolan-Jon/)
+## Hey there 👋, I'm [HarveyJae!](https://github.com/HarveyJae/)
 
 
 
@@ -21,7 +21,7 @@ In addition to my passion for embedded systems, I have also developed an interes
 
 ### Talking about Personal Stuff:
 
-- 🛠 &nbsp; I’m currently working with Java.
+- 🛠 &nbsp; I’m currently working with C++.
 - 🚀 &nbsp; I’m currently exploring AI, etc.
 - 👾 &nbsp; Fun: Music, Movie, GYM, Car, etc.
 - 📫 &nbsp; Reach me out: laodaojiang941@gmail.com.
