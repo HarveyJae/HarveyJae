@@ -9,8 +9,11 @@
 
 </div>
 
-🌟I am an **embedded software engineer** with a degree from the School of Computer Science at [CCNU](https://www.ccnu.edu.cn). Currently based in Wuhan, I specialize in C/C++ development and am particularly interested in OS kernels, an area in which I am actively working. 🚀
+I am an **embedded software engineer** with a degree from the School of Computer Science at [CCNU](https://www.ccnu.edu.cn). 🌟
 
+Currently based in Wuhan, I specialize in C/C++ development and am particularly interested in OS kernels, an area in which I am actively working. 🌟
+
+I enjoy cycling and often share my riding experiences on social media. 🚀
 
 
 
