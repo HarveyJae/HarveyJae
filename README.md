@@ -12,6 +12,8 @@
 🌟I am an **embedded software engineer** with a degree from the School of Computer Science at [CCNU](https://www.ccnu.edu.cn). Currently based in Wuhan, I specialize in C/C++ development and am particularly interested in OS kernels, an area in which I am actively working. 🚀
 
 
+
+
 <img align="right" height="250" width="375" alt="" src="./images/developer.gif" />
 
 ### Talking about Personal Stuff:
