@@ -22,7 +22,7 @@
 - 🛠 &nbsp; I’m currently working with C/C++.
 - 🚀 &nbsp; I’m currently exploring AI, etc.
 - 👾 &nbsp; Fun: Music, Movie, GYM, Car, etc.
-- 📫 &nbsp; Reach me out: laodaojiang941@gmail.com.
+- 📫 &nbsp; Reach me out: harveyjae941@gmail.com.
 
 ### My Absolute Favorites:
 
